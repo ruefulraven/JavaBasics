@@ -13,7 +13,7 @@ public class Human {
 	
 	//Methods
 	public void sleeping() {
-		
+		System.out.println();
 	}
 	
 	public void eating() {

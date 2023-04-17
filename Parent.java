@@ -1,6 +1,6 @@
 package main;
 
-public class Parent {
+public class Parent extends Grandfather{
 	
 	private String firstName = "Axel";
 	private String lastName = "Bajan";
@@ -42,5 +42,9 @@ public class Parent {
 	
 	public void hello(boolean input) {
 		System.out.println("Hello from Parent!!!" + input);
+	}
+	
+	public String middleName() {
+		return "MIDDLE";
 	}
 }
