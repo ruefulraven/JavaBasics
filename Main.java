@@ -8,7 +8,7 @@ public class Main {
 		//data type, variable name, = , variable value
 		String sampleString = "hello";
 		int sampleInt = 3;
-		double sampleDouble = 1.12;
+		double sampleDouble = 1.23;
 		boolean sampleBoolean = true;
 		boolean isNight = true;
 		char sampleChar = 'A';
